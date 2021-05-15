@@ -1,7 +1,0 @@
-
-apiVersion: v1
-data:
-  NAME: "Djalde"
-kind: ConfigMap
-metadata:
-  name: app-configmap
